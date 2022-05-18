@@ -1,5 +1,5 @@
 fn main() {
-    println!("The greatest palyndrome is {}", greatest_palyndrome_up_to_n(2));
+    println!("The greatest palyndrome is {}", greatest_palyndrome_up_to_n(3));
 }
 
 
@@ -52,5 +52,5 @@ fn greatest_palyndrome_up_to_n (n: u32) -> i32 {
     }
 
     return greatest_palyndrome;
-
 }
+
