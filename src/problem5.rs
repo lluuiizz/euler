@@ -1,4 +1,4 @@
-const RANGE: usize = 50;
+const RANGE: usize = 20;
 
 fn main() {
     let mut nums: [i32; RANGE] = [0; RANGE];
